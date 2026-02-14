@@ -70,6 +70,8 @@ Key business questions answered:
 
 ## 📈 Dashboard (Power BI)
 
+![Power BI Dashboard](dashboard.png)
+
 An interactive dashboard was created to visualize:
 
 - Revenue trends  
