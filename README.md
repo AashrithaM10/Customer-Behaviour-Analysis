@@ -98,5 +98,3 @@ An interactive dashboard was created to visualize:
 - Jupyter Notebook  
 
 ---
-
-## 📂 Project Structure
