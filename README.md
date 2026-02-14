@@ -70,7 +70,7 @@ Key business questions answered:
 
 ## 📈 Dashboard (Power BI)
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](CustomerAnalysisDashboard.png)
 
 An interactive dashboard was created to visualize:
 
